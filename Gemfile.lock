@@ -264,7 +264,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
-  bootstrap (= 4.4.1)
+  bootstrap (~> 4.4.1)
   byebug
   capybara
   debug
